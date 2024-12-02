@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: do65r58g7-go-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/do65r58g7-go
